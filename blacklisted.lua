@@ -1,2 +1,2 @@
-local Blacklisted = {"891DE17174282E", "1D891DE17174282E"}
+local Blacklisted = {"91DE17174282E"}
 
