@@ -1,4 +1,5 @@
-local Blacklisted = {"7174282E12333", "10secsc"}
+local Blacklisted = {"7174282E12333"}
+
 
 
 
