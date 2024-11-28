@@ -1,4 +1,5 @@
-local Blacklisted = {"vertex-on-top", "TerrificTerry17"}
+local Blacklisted = {"vertex-on-top"}
+
 
 
 
